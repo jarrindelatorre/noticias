@@ -309,6 +309,8 @@ def leer_tendencias(geo: str, maximo: int) -> tuple[list[dict], str | None]:
         })
     if not tendencias:
         return [], "Google Trends no devolvió tendencias"
+    # De la más buscada a la menos ("50000+" -> 50000).
+    tendencias.sort(key=lambda t: int(re.sub(r"\D", "", t["busquedas"]) or 0), reverse=True)
     return tendencias[:maximo], None
 
 

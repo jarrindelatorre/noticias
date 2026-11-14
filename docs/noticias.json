@@ -1,5 +1,5 @@
 {
- "generado": 1794618642,
+ "generado": 1794619109,
  "categorias": [
   "Política",
   "Economía",
@@ -82,7 +82,7 @@
   {
    "medio": "Metro Ecuador",
    "ambito": "nacional",
-   "noticias": 73,
+   "noticias": 74,
    "error": null
   },
   {
@@ -176,7 +176,291 @@
    "error": null
   }
  ],
+ "tendencias": [
+  {
+   "termino": "peru vs bolivia",
+   "busquedas": "100+",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNk2tVRy_8zQcelpUgWcyVt7EamvWMlYJSgPRC2vi-yLYCdOyPnJ7aC_L-HlY",
+   "fecha": 1794618000,
+   "notas": [
+    {
+     "titulo": "Calentamiento de Perú para el choque con Bolivia, amistoso por fecha FIFA 2026",
+     "enlace": "https://www.infobae.com/video/deportes/calentamiento-de-peru-para-el-choque-con-bolivia-amistoso-por-fecha-fifa-2026/rffh2hI3/",
+     "medio": "Infobae",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNk2tVRy_8zQcelpUgWcyVt7EamvWMlYJSgPRC2vi-yLYCdOyPnJ7aC_L-HlY"
+    },
+    {
+     "titulo": "Perú vuelve a casa con la obligación de ganar: La Bicolor enfrenta a Bolivia en Matute",
+     "enlace": "https://betsson.sport/es/noticias/futbol/peru-vuelve-a-casa-con-la-obligacion-de-ganar-la-bicolor-enfrenta-a-bolivia-en-matute/",
+     "medio": "betsson.sport",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20J7DA5zisSV9CituUdBD_elyOXvnLXMo9c5qpEzTwJKtZsnOxcQal9X5BaI"
+    },
+    {
+     "titulo": "La Verde lleva 412 minutos sin marcar goles, tiene 51 minutos para anotarle a Perú y no tener un registro contrario",
+     "enlace": "https://www.vision360.bo/noticias/2026/11/13/77093-la-verde-lleva-412-minutos-sin-marcar-goles-tiene-51-minutos-para-anotarle-a-peru-y-no-tener-un-registro-contrario",
+     "medio": "Visión 360",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVJp1u_TLf8jjccxBu9L_IM1vCxmceibQVKMjkqYo-9vyzuTjdvQH14Plvy28"
+    }
+   ]
+  },
+  {
+   "termino": "martin tello",
+   "busquedas": "200+",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStLjTh8A4F-f5vyct6XWS09saVAHroW4VvU16CwueuBu48GAVtAV6u8fWpNiI",
+   "fecha": 1794617400,
+   "notas": [
+    {
+     "titulo": "Marcelo Gallardo destaca a Martín Tello en su primera convocatoria con Ecuador: ‘Es un futbolista versátil que puede jugar por dentro, puede jugar por fuera’",
+     "enlace": "https://www.eluniverso.com/deportes/futbol/marcelo-gallardo-destaca-a-martin-tello-en-su-primera-convocatoria-con-ecuador-es-un-futbolista-versatil-que-puede-jugar-por-dentro-puede-jugar-por-fuera-nota/",
+     "medio": "El Universo",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStLjTh8A4F-f5vyct6XWS09saVAHroW4VvU16CwueuBu48GAVtAV6u8fWpNiI"
+    },
+    {
+     "titulo": "Martín Tello alucina con el llamado a La Tri y con compartir camerino con el mejor del mundo en su puesto",
+     "enlace": "https://www.futbolecuador.com/2021/site/noticia/martin-tello-alucina-con-el-llamado-a-la-tri-y-con-compartir-camerino-con-el-mejor-del-mundo-en-su-puesto/172123",
+     "medio": "futbolecuador.com",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9tm1CeMVMrQAhAZYTC4Y0aUUsX52t0tC2txbUOUEhER4yvhiEoZ8zPLcs0nQ"
+    },
+    {
+     "titulo": "Martín Tello cumple el sueño de vestir la camiseta de La Tri de Gallardo -",
+     "enlace": "https://www.benditofutbol.com/deportes/futbol/martin-tello-cumple-sueno-vestir-camiseta-latri-gallardo/",
+     "medio": "Bendito Fútbol",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5mRtT-km6YPPTCJlfAmNaeOVt_xbmrCjmLb2uqPjuKcnwMTMMDjpYoLoxzcU"
+    }
+   ]
+  },
+  {
+   "termino": "jordy caicedo",
+   "busquedas": "50000+",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpW0n_pJ0C3VLZAku3vr45ke8t0cHT3GloL-J-HEQ3EYzWeGlXiL-Inel1qcU",
+   "fecha": 1794616200,
+   "notas": [
+    {
+     "titulo": "EN VIVO | Sigue el minuto a minuto del partido entre Ecuador y Costa Rica",
+     "enlace": "https://www.teleamazonas.com/deportes/futbol/la-tri/ecuador-costa-rica-partido-amistoso-vivo-133073/",
+     "medio": "Teleamazonas",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpW0n_pJ0C3VLZAku3vr45ke8t0cHT3GloL-J-HEQ3EYzWeGlXiL-Inel1qcU"
+    },
+    {
+     "titulo": "¿Viernes 13 de mala suerte? La Tri juega de local ante Costa Rica",
+     "enlace": "https://www.eltelegrafo.com.ec/noticias/deportes/212/viernes-13-de-mala-suerte-la-tri-juega-de-local-ante-costa-rica",
+     "medio": "El Telégrafo (por eliminar)",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWHMjRy0WKX7N0-0L0m5Q-yZcUcvoCzteBCCFRjw0EKFfVz4KwQ3-eAVK12no"
+    },
+    {
+     "titulo": "Hora de ver a Ecuador en accion y Marcelo Gallardo continua en la busqueda de su once ideal",
+     "enlace": "https://www.futbolecuador.com/site/noticia/hora-de-ver-a-ecuador-en-accion-y-marcelo-gallardo-continua-en-la-busqueda-de-su-once-ideal/172172",
+     "medio": "futbolecuador.com",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpE7gQrxSwoOvd2ILO5kFh4oHu3JAMmwLrFAOaTqJ_xd80SjMoeR3CHgLGIy0"
+    }
+   ]
+  },
+  {
+   "termino": "futbol",
+   "busquedas": "200+",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLeDVxrzsZwdHDDLFzPhJjXsg9op_to0Rv7ogoNq4wMl6Vu26-zzzBWmiVLqI",
+   "fecha": 1794615000,
+   "notas": [
+    {
+     "titulo": "Ronaldinho regresará al fútbol a los 46 años con el Ravenna FC",
+     "enlace": "https://www.elcomercio.com/deportes/futbol/ronaldinho-regreso-futbol-ravenna-forli/",
+     "medio": "El Comercio",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLeDVxrzsZwdHDDLFzPhJjXsg9op_to0Rv7ogoNq4wMl6Vu26-zzzBWmiVLqI"
+    },
+    {
+     "titulo": "Ronaldinho volverá al futbol profesional a 11 años de su retiro",
+     "enlace": "https://horacero.com.mx/deportes/ronaldinho-futbol",
+     "medio": "Hora Cero Web",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-YgcoKNfDrvsD3gd79I_Ll9fPi45PK6rzyuXgfpTfPo-zF2fH4s8WXeVcgo"
+    },
+    {
+     "titulo": "Será Ronaldinho titular en su regreso a la cancha en Italia",
+     "enlace": "https://www.reforma.com/sera-ronaldinho-titular-en-su-regreso-a-la-cancha-en-italia/ar3314265",
+     "medio": "Reforma",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfqoDnqoKOpO2HZA4zmjHiTyGCYzio1GUUOA4mVZaeBRvBxh8Vj9FbzuJ77Rk"
+    }
+   ]
+  },
+  {
+   "termino": "ufc 336",
+   "busquedas": "100+",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0B_UFzEzMl_SSn47KYUV7LZqpYuqxt3P9q5sjDyCA7429zYxW1k_D-HYVOG8",
+   "fecha": 1794614400,
+   "notas": [
+    {
+     "titulo": "UFC 335 and UFC 336 press conference video",
+     "enlace": "https://www.mmafighting.com/ufc/520942/ufc-335-and-ufc-336-press-conference-video",
+     "medio": "MMA Fighting",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0B_UFzEzMl_SSn47KYUV7LZqpYuqxt3P9q5sjDyCA7429zYxW1k_D-HYVOG8"
+    },
+    {
+     "titulo": "Video: Carlos Prates and Michael Morales have intense first faceoff at UFC 335 and UFC 336 press conference",
+     "enlace": "https://sports.yahoo.com/articles/video-carlos-prates-michael-morales-222233181.html",
+     "medio": "Yahoo Sports",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRsJPeGupis-3UTa6jYajtB3qM4lbEziH876pbsmGbpFYJtSqS9TiFhbvsRc"
+    },
+    {
+     "titulo": "UFC 335/UFC 336 first faceoffs: BMF title, Pereira, Van-Kape, Prates-Morales",
+     "enlace": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/13/ufc-335ufc-336-faceoffs-bmf-title-pereira-van-kape-prates-morales/92753027007/",
+     "medio": "MMA Junkie",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt8WgFGXzGf_RcaxxIliQbR6qm0uHqJzk6ys0AxDe8LbYjV8cEdDpOoYgj3LI"
+    }
+   ]
+  },
+  {
+   "termino": "ecuador versus costa rica",
+   "busquedas": "500+",
+   "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+   "fecha": 1794613200,
+   "notas": [
+    {
+     "titulo": "Ecuador vs Costa Rica: Friendlies stats & head-to-head",
+     "enlace": "https://www.bbc.com/sport/football/live/c680z0xe2xr2t",
+     "medio": "BBC",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+    },
+    {
+     "titulo": "Ecuador - Costa Rica prediction & picks 14.11.2026",
+     "enlace": "https://www.transfermarkt.us/online-betting/picks/ecuador-vs-costa-rica-picks-14-11-2026/",
+     "medio": "www.transfermarkt.us",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU4N7yNUNPLgI1tHfCEb5XV4Rpfjf3t4g1rXACR9oHH0eAhdVUgkoQdB00lu4"
+    },
+    {
+     "titulo": "(WAY) TO WATCH Ecuador vs Costa Rica LIVE Streams Reddit ON TV CHANNEL",
+     "enlace": "https://www.goldderby.com/topic/way-to-watch-ecuador-vs-costa-rica-live-streams-reddit-on-tv-channel/",
+     "medio": "Gold Derby",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj-B6ClF3A_z8pPVBZtn3XGBTDrP31af4i3nFRPmP1zjwAyw2Or3_k0UTkgwg"
+    }
+   ]
+  },
+  {
+   "termino": "ecuador vs bolivia",
+   "busquedas": "500+",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh1gJR4p582ufHNx_ln21_gSDVhE2i9lI1rJWllrGUVI5mEMlKJXQOvi72chA",
+   "fecha": 1794613200,
+   "notas": [
+    {
+     "titulo": "Ecuador vs. Bolivia: ¿cuándo juegan, a qué hora y dónde ver EN VIVO el partido?",
+     "enlace": "https://www.eluniverso.com/deportes/futbol/ecuador-vs-bolivia-cuando-juegan-a-que-hora-y-donde-ver-en-vivo-el-partido-nota/",
+     "medio": "El Universo",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh1gJR4p582ufHNx_ln21_gSDVhE2i9lI1rJWllrGUVI5mEMlKJXQOvi72chA"
+    },
+    {
+     "titulo": "Partidos amistosos de Ecuador: precios para ir al estadio en Quito y Guayaquil",
+     "enlace": "https://www.eltelegrafo.com.ec/noticias/deportes/212/partidos-amistosos-de-ecuador-precios-para-ir-al-estadio-en-quito-y-guayaquil",
+     "medio": "El Telégrafo (por eliminar)",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIs2z1nuPGPJofyC6eS1G5xzDhSjTHhD9XkakvWyepDhlWbnAHqbjUGg9r6rI"
+    },
+    {
+     "titulo": "Guayaquil no puede quedarse atras y Ecuador hace el llamado a que su aficion llene el Monumental",
+     "enlace": "https://www.futbolecuador.com/site/noticia/guayaquil-no-puede-quedarse-atras-y-ecuador-hace-el-llamado-a-que-su-aficion-llene-el-monumental/172095",
+     "medio": "futbolecuador.com",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7FjdCi6guo3Puc2Jv2PhQl8618rS704lEDffStBmEU39DSloUglBc5mrNMAc"
+    }
+   ]
+  },
+  {
+   "termino": "aryna sabalenka",
+   "busquedas": "100+",
+   "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0XGVO7rXviUX223HPKa6GqAtXqlfHLTlALUtK8Bak4Lr76CIKSDrNHIeOq2I",
+   "fecha": 1794612600,
+   "notas": [
+    {
+     "titulo": "Sabalenka's season ended by Svitolina at WTA Finals",
+     "enlace": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o",
+     "medio": "BBC",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0XGVO7rXviUX223HPKa6GqAtXqlfHLTlALUtK8Bak4Lr76CIKSDrNHIeOq2I"
+    },
+    {
+     "titulo": "Andreeva routs Shnaider 6-2, 6-1, moves on to semifinals at season-ending WTA Finals",
+     "enlace": "https://www.seattlepi.com/sports/muchova-withdraws-from-wta-finals-shnaider-a22529615",
+     "medio": "Seattle Post-Intelligencer",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpM4qHz1Rc12FGeFmXdY3EqS6NiJ_Oko3W67HI3BkSTCdxeY2QPJzwcJyzziA"
+    },
+    {
+     "titulo": "How Svitolina beat Sabalenka to join Andreeva as a Group 2 semifinalist",
+     "enlace": "https://www.wtatennis.com/news/4608912/how-svitolina-beat-sabalenka-to-join-andreeva-as-a-group-2-semifinalist",
+     "medio": "WTA Tennis",
+     "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVO93hDb1faE89Hm4qUaAehfMhJkWu5FjFCuaFg9k485epess0hT2pNMeJpQE"
+    }
+   ]
+  },
+  {
+   "termino": "colombia - chile",
+   "busquedas": "10000+",
+   "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsKvheKkHFS7rC2NzoTpN2sfQDwypViSisli_cwaPgm_fgK8Np5SyfNzd34s",
+   "fecha": 1794612000,
+   "notas": [
+    {
+     "titulo": "¿Por qué no juega Luis Díaz en Chile vs Colombia? La razón de su ausencia en la fecha FIFA de noviembre",
+     "enlace": "https://www.365scores.com/es/news/por-que-no-juega-luis-diaz-ante-chile/",
+     "medio": "365Scores",
+     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsKvheKkHFS7rC2NzoTpN2sfQDwypViSisli_cwaPgm_fgK8Np5SyfNzd34s"
+    },
+    {
+     "titulo": "'Estamos listos': así es el blindaje de alta tecnología para garantizar la seguridad en el amistoso entre las selecciones de Colombia y Chile en Cali",
+     "enlace": "https://www.eltiempo.com/colombia/cali/estamos-listos-asi-es-el-blindaje-de-alta-tecnologia-para-garantizar-la-seguridad-en-el-amistoso-entre-las-selecciones-de-colombia-y-chile-en-cali-3600903",
+     "medio": "El Tiempo",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe6hMgHPhd8FmdA0d84HiylboyCCDdb6vqNcxwuFlwx2cnXH96PNeG5883Lx0"
+    },
+    {
+     "titulo": "Autogol de Chile en el amistoso contra Colombia en Cali: centro de Daniel Muñoz condenó a la defensa",
+     "enlace": "https://www.semana.com/deportes/articulo/autogol-de-chile-en-el-amistoso-contra-colombia-en-cali-centro-de-daniel-munoz-condeno-a-la-defensa/202641/",
+     "medio": "Revista Semana",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwbeK_6VdBo4KhFvCNuelOPsYKVp3SsFUdEtG3yUTuk5XAc7OLyvjvCQdp8lQ"
+    }
+   ]
+  },
+  {
+   "termino": "michael morales",
+   "busquedas": "200+",
+   "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZpkWRQcTLT_Yayy4eWfeM1npqS2DvtjQeiqycRCyTV9LfZM1FX1JqHjbiICY",
+   "fecha": 1794612000,
+   "notas": [
+    {
+     "titulo": "Michael Morales calienta el duelo con Prates y lanza una promesa que apunta a Islam Makhachev",
+     "enlace": "https://www.elcomercio.com/deportes/artes-marciales/michael-morales-prates-ufc-cinturon-islam/",
+     "medio": "El Comercio",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZpkWRQcTLT_Yayy4eWfeM1npqS2DvtjQeiqycRCyTV9LfZM1FX1JqHjbiICY"
+    },
+    {
+     "titulo": "Michael Morales y Prates protagonizarán su primer careo",
+     "enlace": "https://elmercurio.com.ec/deportes/2026/11/13/michael-morales-ufc-prates/",
+     "medio": "El Mercurio",
+     "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQetU2Vdr5-7yeHA_1EHXqoElArv60Gnp-3e0DThwYZ-BxM7MWRKYhPsICv0t8"
+    },
+    {
+     "titulo": "Michael Morales se alista para el careo con Carlos Prates en Nueva York.",
+     "enlace": "https://machalamovil.com/michael-morales-se-alista-para-el-careo-con-carlos-prates-en-nueva-york/",
+     "medio": "Machala Móvil",
+     "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqzaDja3LDbqQv4abzCjknp61kOT_aUs8q45UZ590dOogMV_EkoY_5MAPxhp4"
+    }
+   ]
+  }
+ ],
  "historias": [
+  {
+   "id": "e10a8d9c4c60a87d",
+   "titulo": "Ecuador vs. Costa Rica EN VIVO: minuto a minuto, alineación titular y últimas noticias desde el estadio Olímpico Atahualpa",
+   "resumen": "Sigue Ecuador vs. Costa Rica EN VIVO este viernes 13 de noviembre desde las 19:00. Conoce el once titular de La Tri, horario y transmisión.",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/3SODSRT5FJCO3MMQW6X7UVHB5M.png?auth=fc4b1deda41ee0db39ddaf0a1cc5ef0bae48b8dd5c244a86088c1aefe3e592fd&smart=true&width=687&height=382",
+   "enlace": "https://www.metroecuador.com.ec/deportes/2026/11/13/ecuador-vs-costa-rica-en-vivo-minuto-a-minuto-alineacion-titular-y-ultimas-noticias-desde-el-estadio-olimpico-atahualpa/",
+   "medio": "Metro Ecuador",
+   "otros_medios": [
+    {
+     "medio": "El Diario",
+     "enlace": "https://www.eldiario.ec/deportes/ecuador-confirma-su-alineacion-titular-para-enfrentar-a-costa-rica-en-el-estadio-olimpico-atahualpa-13112026/"
+    },
+    {
+     "medio": "El Mercurio",
+     "enlace": "https://elmercurio.com.ec/deportes/2026/11/13/ecuador-costa-rica-en-vivo-amistoso/"
+    }
+   ],
+   "cobertura": 3,
+   "fecha": 1794612529,
+   "ambito": "nacional",
+   "categoria": "Deportes"
+  },
   {
    "id": "30b4b1982c8e7b41",
    "titulo": "Ataque armado en velorio de niños en Napo deja dos abatidos y tres heridos",
@@ -198,6 +482,28 @@
    "fecha": 1794610479,
    "ambito": "nacional",
    "categoria": "Seguridad"
+  },
+  {
+   "id": "2185eedcec7d5b08",
+   "titulo": "🔴En vivo: Ecuador recibe a Costa Rica en el Estadio Olímpico Atahualpa",
+   "resumen": "Siga aquí el minuto a minuto del partido entre Ecuador y Costa Rica A las 19:00 jugará Ecuador frente a Costa Rica en el Estadio Olímpico Atahualpa, en Quito. Será la primera vez, en nueve años, que la selección ecuatoriana vuelve a disputar un encuentro en ese espacio que fue…",
+   "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png",
+   "enlace": "https://elmercurio.com.ec/deportes/2026/11/13/ecuador-costa-rica-en-vivo-amistoso/",
+   "medio": "El Mercurio",
+   "otros_medios": [
+    {
+     "medio": "El Diario",
+     "enlace": "https://www.eldiario.ec/deportes/ecuador-confirma-su-alineacion-titular-para-enfrentar-a-costa-rica-en-el-estadio-olimpico-atahualpa-13112026/"
+    },
+    {
+     "medio": "Metro Ecuador",
+     "enlace": "https://www.metroecuador.com.ec/deportes/2026/11/13/ecuador-vs-costa-rica-en-vivo-minuto-a-minuto-alineacion-titular-y-ultimas-noticias-desde-el-estadio-olimpico-atahualpa/"
+    }
+   ],
+   "cobertura": 3,
+   "fecha": 1794608767,
+   "ambito": "nacional",
+   "categoria": "Deportes"
   },
   {
    "id": "d9d601f1a17844f2",
@@ -310,6 +616,64 @@
    "categoria": "Política"
   },
   {
+   "id": "7f5eb26e74b37dea",
+   "titulo": "Ecuador confirma su alineación titular para enfrentar a Costa Rica en el estadio Olímpico Atahualpa",
+   "resumen": "Con un esquema táctico 4-2-3-1 y novedades en ataque, el técnico Marcelo Gallardo confirmó los once titulares de Ecuador para el amistoso ante Costa Rica.",
+   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D14150F55594947721F12181852434C791113-2000x1125.jpg",
+   "enlace": "https://www.eldiario.ec/deportes/ecuador-confirma-su-alineacion-titular-para-enfrentar-a-costa-rica-en-el-estadio-olimpico-atahualpa-13112026/",
+   "medio": "El Diario",
+   "otros_medios": [
+    {
+     "medio": "El Mercurio",
+     "enlace": "https://elmercurio.com.ec/deportes/2026/11/13/ecuador-costa-rica-en-vivo-amistoso/"
+    },
+    {
+     "medio": "Metro Ecuador",
+     "enlace": "https://www.metroecuador.com.ec/deportes/2026/11/13/ecuador-vs-costa-rica-en-vivo-minuto-a-minuto-alineacion-titular-y-ultimas-noticias-desde-el-estadio-olimpico-atahualpa/"
+    }
+   ],
+   "cobertura": 3,
+   "fecha": 1794576780,
+   "ambito": "nacional",
+   "categoria": "General"
+  },
+  {
+   "id": "d67ae817988942da",
+   "titulo": "Caos aéreo en Estados Unidos: más de 10.000 vuelos retrasados y 1.700 cancelados tras suspensión de despegues",
+   "resumen": "Una falla en las telecomunicaciones obligó a paralizar las salidas en los aeropuertos estadounidenses.",
+   "imagen": "https://www.metroecuador.com.ec/resizer/v2/4XUKKCQXW5BZVJRDJATMPTQP34.jpg?auth=0c3a2d8b32ba6a58135610a33512ef09566f78cc16c9bf89b06f76323415396d&smart=true&width=5000&height=3282",
+   "enlace": "https://www.metroecuador.com.ec/noticias/2026/11/14/caos-aereo-en-estados-unidos-mas-de-10000-vuelos-retrasados-y-1700-cancelados-tras-suspension-de-despegues/",
+   "medio": "Metro Ecuador",
+   "otros_medios": [
+    {
+     "medio": "El Universo",
+     "enlace": "https://eluniverso.com/internacional/estados-unidos/caos-aereo-en-ee-uu-mas-de-1700-vuelos-cancelados-y-10000-retrasados-este-viernes-nota/"
+    }
+   ],
+   "cobertura": 2,
+   "fecha": 1794618580,
+   "ambito": "nacional",
+   "categoria": "General"
+  },
+  {
+   "id": "ec374e837a43e0c1",
+   "titulo": "Caos aéreo en EE. UU.: más de 1.700 vuelos cancelados y 10.000 retrasados este viernes",
+   "resumen": "Aunque aún no hay cifras oficiales, se cree que está suspensión de despegues puede afectar a cientos de miles de pasajeros en todo Estados Unidos.",
+   "imagen": "https://eluniverso.com/resizer/uoXhZS3wB4Uuko4fgmTPpOa5PgA=/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/XZQO7W37EJHDFAODKDKYGILS4A.jpg",
+   "enlace": "https://eluniverso.com/internacional/estados-unidos/caos-aereo-en-ee-uu-mas-de-1700-vuelos-cancelados-y-10000-retrasados-este-viernes-nota/",
+   "medio": "El Universo",
+   "otros_medios": [
+    {
+     "medio": "Metro Ecuador",
+     "enlace": "https://www.metroecuador.com.ec/noticias/2026/11/14/caos-aereo-en-estados-unidos-mas-de-10000-vuelos-retrasados-y-1700-cancelados-tras-suspension-de-despegues/"
+    }
+   ],
+   "cobertura": 2,
+   "fecha": 1794616071,
+   "ambito": "nacional",
+   "categoria": "General"
+  },
+  {
    "id": "5954666e7040bf90",
    "titulo": "EEUU descarta la amenaza terrorista e insiste en un fallo de telecomunicaciones ante la suspensión de vuelos",
    "resumen": "El secretario de Seguridad Nacional de Estados Unidos, Markwayne Mullin, ha descartado este viernes que la suspensión de todos los vuelos en el territorio se deba a una presunta amenaza terrorista y ha insistido en \"problemas de telecomunicaciones\" si bien no ha precisado el…",
@@ -344,24 +708,6 @@
    "fecha": 1794614042,
    "ambito": "internacional",
    "categoria": "Mundo"
-  },
-  {
-   "id": "e10a8d9c4c60a87d",
-   "titulo": "Ecuador vs. Costa Rica EN VIVO: minuto a minuto, alineación titular y últimas noticias desde el estadio Olímpico Atahualpa",
-   "resumen": "Sigue Ecuador vs. Costa Rica EN VIVO este viernes 13 de noviembre desde las 19:00. Conoce el once titular de La Tri, horario y transmisión.",
-   "imagen": "https://www.metroecuador.com.ec/resizer/v2/3SODSRT5FJCO3MMQW6X7UVHB5M.png?auth=fc4b1deda41ee0db39ddaf0a1cc5ef0bae48b8dd5c244a86088c1aefe3e592fd&smart=true&width=687&height=382",
-   "enlace": "https://www.metroecuador.com.ec/deportes/2026/11/13/ecuador-vs-costa-rica-en-vivo-minuto-a-minuto-alineacion-titular-y-ultimas-noticias-desde-el-estadio-olimpico-atahualpa/",
-   "medio": "Metro Ecuador",
-   "otros_medios": [
-    {
-     "medio": "El Diario",
-     "enlace": "https://www.eldiario.ec/deportes/ecuador-confirma-su-alineacion-titular-para-enfrentar-a-costa-rica-en-el-estadio-olimpico-atahualpa-13112026/"
-    }
-   ],
-   "cobertura": 2,
-   "fecha": 1794612529,
-   "ambito": "nacional",
-   "categoria": "Deportes"
   },
   {
    "id": "c4340e59ecab4c4e",
@@ -706,24 +1052,6 @@
    "categoria": "Mundo"
   },
   {
-   "id": "7f5eb26e74b37dea",
-   "titulo": "Ecuador confirma su alineación titular para enfrentar a Costa Rica en el estadio Olímpico Atahualpa",
-   "resumen": "Con un esquema táctico 4-2-3-1 y novedades en ataque, el técnico Marcelo Gallardo confirmó los once titulares de Ecuador para el amistoso ante Costa Rica.",
-   "imagen": "https://img.eldiario.ec/upload/2026/11/17161D524C42456D14150F55594947721F12181852434C791113-2000x1125.jpg",
-   "enlace": "https://www.eldiario.ec/deportes/ecuador-confirma-su-alineacion-titular-para-enfrentar-a-costa-rica-en-el-estadio-olimpico-atahualpa-13112026/",
-   "medio": "El Diario",
-   "otros_medios": [
-    {
-     "medio": "Metro Ecuador",
-     "enlace": "https://www.metroecuador.com.ec/deportes/2026/11/13/ecuador-vs-costa-rica-en-vivo-minuto-a-minuto-alineacion-titular-y-ultimas-noticias-desde-el-estadio-olimpico-atahualpa/"
-    }
-   ],
-   "cobertura": 2,
-   "fecha": 1794576780,
-   "ambito": "nacional",
-   "categoria": "General"
-  },
-  {
    "id": "8241ee75ec900d5f",
    "titulo": "Estados Unidos suspende todos sus vuelos nacionales por motivos de seguridad",
    "resumen": "Estados Unidos suspendió este viernes todos los despegues en sus aeropuertos debido a un fallo de comunicación aérea, afectando casi 7.000 vuelos en el país.",
@@ -858,9 +1186,217 @@
    "medio": "BBC Mundo",
    "otros_medios": [],
    "cobertura": 1,
-   "fecha": 1794618642,
+   "fecha": 1794619109,
    "ambito": "internacional",
    "categoria": "Mundo"
+  },
+  {
+   "id": "7d6f928a21ee3e8a",
+   "titulo": "Afidro pidió recuperar $3 billones del presupuesto de la salud a 100 días del Gobierno de Abelardo de la Espriella: este fue su balance del sector",
+   "resumen": "El gremio farmacéutico reconoció la puesta en marcha del Plan de Choque en Salud y la apertura al diálogo con los actores del sistema, pero insistió en la necesidad de fortalecer la financiación y evitar interrupciones en los tratamientos de los pacientes",
+   "imagen": "https://www.infobae.com/resizer/v2/5EDIWE45RNG3HJVNC72YBI4JKU.png?auth=ba35fa08d035ac558a7a9f6733937bab92fbfa03f209976a48787a56bc81de36&smart=true&width=2752&height=1536",
+   "enlace": "https://www.infobae.com/colombia/2026/11/14/afidro-pidio-recuperar-3-billones-del-presupuesto-de-la-salud-a-100-dias-del-gobierno-de-abelardo-de-la-espriella-este-fue-su-balance-del-sector/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794619046,
+   "ambito": "internacional",
+   "categoria": "Salud"
+  },
+  {
+   "id": "9a963d0ed0d23563",
+   "titulo": "Caos en los aeropuertos de EE UU por la suspensión de vuelos: “Nadie va a ir a ninguna parte”",
+   "resumen": "Miles de personas en aeropuertos en todo el país están a la expectativa de que las aerolíneas les informen qué pasará con sus vuelos",
+   "imagen": "https://imagenes.elpais.com/resizer/v2/VDD7EZS4ABIWTLJZX7OCYEXKNI.jpg?auth=8cc9b409afd09cf92060ce1352b6f6a42be6cfd6374e457fe8ef6f76ec978b66",
+   "enlace": "https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html",
+   "medio": "El País América",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794619016,
+   "ambito": "internacional",
+   "categoria": "Sociedad"
+  },
+  {
+   "id": "9820e7c30de1e4fa",
+   "titulo": "Se registró nuevo ataque con drones en Curumaní, Cesar: lanzaron explosivos contra una tanqueta del Ejército, hay un soldado herido",
+   "resumen": "El hecho violento fue dirigido a la Fuerza de Tarea Conjunta Urano del Ejército Nacional. El día anterior se reportó un acto terrorista en el mismo corregimiento",
+   "imagen": "https://www.infobae.com/resizer/v2/JPNUQI3LEVG3NJ4UQUFZVPHW24.jpg?auth=b8ea2cb7ff3197d656270d576dfd369c9e2aced84b8465a9819d776971117485&smart=true&width=780&height=565",
+   "enlace": "https://www.infobae.com/colombia/2026/11/14/se-registro-nuevo-ataque-con-drones-en-curumani-cesar-lanzaron-explosivos-contra-una-tanqueta-del-ejercito-hay-un-soldado-herido/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618983,
+   "ambito": "internacional",
+   "categoria": "Mundo"
+  },
+  {
+   "id": "8b045b02bb0a45be",
+   "titulo": "Demoras y desvío: qué pasa con los vuelos programados para hoy desde Argentina a Estados Unidos",
+   "resumen": "Cuáles son los despegues programados para las próximas horas y los primeros que aparecen como “demorados”. Qué dicen, por el momento, las líneas aéreas que operan en el país",
+   "imagen": "https://www.infobae.com/resizer/v2/XPHQXXPVJVH4HFJINKHPYRRRR4.jpeg?auth=e0f35045a0e764cf3f0b7d6104bf19a6e877e71bba34085291a7a95244135765&smart=true&width=1600&height=1065",
+   "enlace": "https://www.infobae.com/economia/2026/11/13/que-pasara-con-los-vuelos-programados-para-hoy-desde-argentina-a-estados-unidos/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618980,
+   "ambito": "internacional",
+   "categoria": "Mundo"
+  },
+  {
+   "id": "8f2b0d1325d6e812",
+   "titulo": "Poncho de Nigris denuncia robo de 600 mil pesos y ofrece un millón para atrapar a los responsable",
+   "resumen": "Ante la falta de nómina, el empresario e influencer mexicano afirmó que se buscarán recursos para cubrir los salarios de sus trabajadores",
+   "imagen": "https://www.infobae.com/resizer/v2/4Y2OWTNEJJCMVDKITBRMI7Y4CY.png?auth=d870d7d949cf272d384ae4fd8011e19682b12141d30fd5357f5dcc28850b3240&smart=true&width=2752&height=1536",
+   "enlace": "https://www.infobae.com/mexico/2026/11/14/poncho-de-nigris-denuncia-robo-de-600-mil-pesos-y-ofrece-un-millon-para-atrapar-a-los-responsable/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618966,
+   "ambito": "internacional",
+   "categoria": "Seguridad"
+  },
+  {
+   "id": "d46b9648884c5597",
+   "titulo": "Aerolíneas internacionales se pronuncian para asistir a viajeros centroamericanos ante la suspensión de vuelos en Estados Unidos",
+   "resumen": "Pasajeros con viajes programados hacia o desde EE.UU. enfrentan cambios en sus itinerarios tras la suspensión temporal de operaciones en tierra dispuesta por la Administración Federal de Aviación (FAA).",
+   "imagen": "https://www.infobae.com/resizer/v2/A5JYFU4BF5A3FEUKTSYT6Q7HOA.JPG?auth=74d509a4d907d0399afa6bd3829503494d6d1f31f7ade7d0d44524cf325465fe&smart=true&width=5000&height=3333",
+   "enlace": "https://www.infobae.com/el-salvador/2026/11/14/aerolineas-internacionales-se-pronuncian-para-asistir-a-viajeros-centroamericanos-ante-la-suspension-de-vuelos-en-estados-unidos/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618965,
+   "ambito": "internacional",
+   "categoria": "Mundo"
+  },
+  {
+   "id": "fa025bc3db26add7",
+   "titulo": "Al menos dos aviones regresan a Panamá tras la suspensión general de despegues en EE.UU.",
+   "resumen": "Ciudad de Panamá, 13 nov (EFE).- El Gobierno panameño dijo este viernes que al menos dos vuelos que iban hacia Estados Unidos volvieron a Panamá, como \"medida preventiva\" ante la orden de suspender los despegues en aeropuertos estadounidenses por problemas en las comunicaciones…",
+   "imagen": null,
+   "enlace": "https://www.infobae.com/america/agencias/2026/11/14/al-menos-dos-aviones-regresan-a-panama-tras-la-suspension-general-de-despegues-en-eeuu/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618958,
+   "ambito": "internacional",
+   "categoria": "Política"
+  },
+  {
+   "id": "ba41f2b95c335a86",
+   "titulo": "Papa León XIV en Zaña: a qué hora será el encuentro en el Santuario de Santo Toribio de Mogrovejo y cómo llegar",
+   "resumen": "El sumo pontífice encabezará una jornada de oración en la localidad lambayecana donde murió Santo Toribio de Mogrovejo en 1606, como parte de la conmemoración por los 300 años de su canonización",
+   "imagen": "https://www.infobae.com/resizer/v2/WD4QJMAKIBGJDJYVSJPLERCVHI.jpg?auth=772ff063e19e511487282f997588c0880de74c1864caff6c1f061ad8a2e92381&smart=true&width=2814&height=1876",
+   "enlace": "https://www.infobae.com/peru/2026/11/14/papa-leon-xiv-en-zana-a-que-hora-sera-el-encuentro-en-el-santuario-de-santo-toribio-de-mogrovejo-y-como-llegar/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618944,
+   "ambito": "internacional",
+   "categoria": "Mundo"
+  },
+  {
+   "id": "eabf012b5f4391d0",
+   "titulo": "El papa León XIV vive un apoteósico regreso a su querida Chiclayo, donde fue obispo 8 años",
+   "resumen": "Chiclayo (Perú), 13 nov (EFE).- El papa León XIV vivió este viernes un regreso apoteósico a su querida Chiclayo, la ciudad en la que fue obispo durante ocho años y que esperaba con gran ilusión su regreso, esta vez convertido en pontífice, un reencuentro emocionante que llenó de…",
+   "imagen": null,
+   "enlace": "https://www.infobae.com/america/agencias/2026/11/14/el-papa-leon-xiv-vive-un-apoteosico-regreso-a-su-querida-chiclayo-donde-fue-obispo-8-anos/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618941,
+   "ambito": "internacional",
+   "categoria": "Mundo"
+  },
+  {
+   "id": "7dd05d424da48c32",
+   "titulo": "1-2. Uruguay amarga a Argentina en el inicio de la era pos-Messi",
+   "resumen": "Redacción Deportes, 13 nov (EFE).- La selección de Uruguay amargó este viernes el comienzo de la era pos-Messi en la selección de Argentina y consiguió una inobjetable victoria por 1-2 en la edición 198 del Clásico del Río de La Plata, un partido amistoso jugado en el estadio…",
+   "imagen": null,
+   "enlace": "https://www.infobae.com/america/agencias/2026/11/14/1-2-uruguay-amarga-a-argentina-en-el-inicio-de-la-era-pos-messi/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618924,
+   "ambito": "internacional",
+   "categoria": "Deportes"
+  },
+  {
+   "id": "05f6925c79ad728a",
+   "titulo": "Colombia vs. Chile - EN VIVO: se juega el segundo tiempo, siga aquí el minuto a minuto del partido",
+   "resumen": "La Amarilla volverá a la acción previo al cierre del 2026 y con Néstor Lorenzo probando variantes tácticas con los nuevos jugadores",
+   "imagen": "https://www.infobae.com/resizer/v2/JVEATPFGC5BDXGVWBI6BTPAKSQ.jpg?auth=d37418ad0a6c5aa78e028139c254c50e6a59446d4749b4a99f96b9b4cfc16e86&smart=true&width=679&height=452",
+   "enlace": "https://www.infobae.com/colombia/deportes/2026/11/13/colombia-vs-chile-en-vivo-siga-aqui-el-minuto-a-minuto-del-partido-en-el-pascual-guerrero/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618922,
+   "ambito": "internacional",
+   "categoria": "Política"
+  },
+  {
+   "id": "f3993413f66a30cb",
+   "titulo": "EN VIVO | Bloqueos, accidentes y manifestaciones hoy 13 de noviembre: comerciantes bloquean viaducto Río de la Piedad previo al inicio del concierto de Karol G",
+   "resumen": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
+   "imagen": "https://www.infobae.com/resizer/v2/FKT5PMTL4JH2ZMS6RUR2V7XQEI.jpg?auth=e561bcdb7a03595187606b02a175d6946c13314cbdea0091983eb5556b3e3df7&smart=true&width=3840&height=2160",
+   "enlace": "https://www.infobae.com/mexico/2026/11/13/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-13-de-noviembre/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618910,
+   "ambito": "internacional",
+   "categoria": "Cultura"
+  },
+  {
+   "id": "77123371044b060d",
+   "titulo": "Perú 0-0 Bolivia EN VIVO HOY: minuto a minuto del partido amistoso en Matute por fecha FIFA 2026",
+   "resumen": "La ‘bicolor’ recibe a la selección altiplánica en el estadio Alejandro Villanueva, en el primer partido de Mano Menezes en territorio peruano. Sigue aquí todas las incidencias del encuentro",
+   "imagen": "https://www.infobae.com/resizer/v2/K5NZZC4CFRAXVMC3HUKDER3Z24.jpg?auth=14b9ef49c06649d38eea3519f4cc7fcff32ce7f58059aa2efe7961b0bc87241c&smart=true&width=1920&height=1080",
+   "enlace": "https://www.infobae.com/peru/deportes/2026/11/13/peru-vs-bolivia-en-vivo-hoy-minuto-a-minuto-partido-amistoso-matute-fecha-fifa-2026-goles-resumen-resultado/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618886,
+   "ambito": "internacional",
+   "categoria": "Deportes"
+  },
+  {
+   "id": "2771999025fe072e",
+   "titulo": "Los memes de la caída de Argentina contra Uruguay: las jugadas de Nico Paz, el gol en contra de Balerdi y la ausencia de Messi, los focos",
+   "resumen": "La Scaloneta perdió 2-1 contra la Celeste en La Bombonera en el arranque de la era posterior a la Pulga. Las reacciones en las redes sociales",
+   "imagen": "https://www.infobae.com/resizer/v2/YK734N2MTBALXFWFNCZILKH2QQ.png?auth=70200bbcc09008578036d0edf823975a16171f1c0a324b1e4cf4579147e95bff&smart=true&width=2752&height=1536",
+   "enlace": "https://www.infobae.com/deportes/2026/11/14/los-memes-de-la-caida-de-argentina-contra-uruguay-las-jugadas-de-nico-paz-el-gol-en-contra-de-balerdi-y-la-ausencia-de-messi-los-focos/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618803,
+   "ambito": "internacional",
+   "categoria": "Deportes"
+  },
+  {
+   "id": "7497c2d11cd98aa1",
+   "titulo": "Cusco implementará sistema antidrones para proteger al papa León XIV durante su visita y desplegarán 5 mil efectivos",
+   "resumen": "El operativo contempla tres anillos de protección, restricciones al tránsito en el recorrido papal y controles especiales en Sacsayhuamán y la Plaza Mayor, donde se espera la asistencia de más de 100 mil personas",
+   "imagen": "https://www.infobae.com/resizer/v2/VZCBOBQRIFFPLE5E2RWZUHIRIU.jpg?auth=861b36a35b698bad65de0483eff14ddd02b06732f866a280e6532d50d4312df9&smart=true&width=1920&height=1080",
+   "enlace": "https://www.infobae.com/peru/2026/11/14/cusco-implementara-sistema-antidrones-para-proteger-al-papa-leon-xiv-durante-su-visita-y-desplegaran-5-mil-efectivos/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618793,
+   "ambito": "internacional",
+   "categoria": "Seguridad"
+  },
+  {
+   "id": "398418d84cbe5da6",
+   "titulo": "Claves del cierre del espacio aéreo en Estados Unidos: qué se sabe del fallo que ha dejado en tierra todos los vuelos",
+   "resumen": "El Gobierno de Trump atribuye el cierre a un fallo de telecomunicaciones en los centros de control aéreo. No conoce la causa ni da un plazo para recuperar la normalidad",
+   "imagen": "https://imagenes.elpais.com/resizer/v2/RU4HZEQCMZIAVNEA72ITHIL44E.jpg?auth=80173d4a26ac5b49c42d9255aa7b177d04043dbf914c643e599cfcf56d8e4d1f",
+   "enlace": "https://elpais.com/us/2026-11-13/claves-del-cierre-del-espacio-aereo-en-estados-unidos-que-se-sabe-del-fallo-que-ha-dejado-en-tierra-todos-los-vuelos.html",
+   "medio": "El País América",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618699,
+   "ambito": "internacional",
+   "categoria": "Política"
   },
   {
    "id": "9c72630c98ed3b21",
@@ -871,7 +1407,7 @@
    "medio": "El País América",
    "otros_medios": [],
    "cobertura": 1,
-   "fecha": 1794618491,
+   "fecha": 1794618657,
    "ambito": "internacional",
    "categoria": "Sociedad"
   },
@@ -885,6 +1421,19 @@
    "otros_medios": [],
    "cobertura": 1,
    "fecha": 1794618414,
+   "ambito": "internacional",
+   "categoria": "Mundo"
+  },
+  {
+   "id": "bf1d3b119183f7d4",
+   "titulo": "Nora Colosimo apuntó contra Mauro Icardi y La China Suárez por la situación que atraviesa Wanda Nara: “Son dos siniestros”",
+   "resumen": "La madre de Wanda Nara habló en LAM sobre el episodio que involucra a la hija mayor de la conductora y pidió a la justicia que no pierda de vista a las dos menores",
+   "imagen": "https://www.infobae.com/resizer/v2/NLR4DGZEBNHKLIEZS5XHLLRCZY.png?auth=ac253a9ca4a790a6e34b4b68f0e93628b71e04d56a9e37410a6254ca11ac7bf0&smart=true&width=1920&height=1080",
+   "enlace": "https://www.infobae.com/teleshow/2026/11/14/nora-colosimo-apunto-contra-mauro-icardi-y-la-china-suarez-por-la-situacion-que-atraviesa-wanda-nara-son-dos-siniestros/",
+   "medio": "Infobae",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618408,
    "ambito": "internacional",
    "categoria": "Mundo"
   },
@@ -911,19 +1460,6 @@
    "otros_medios": [],
    "cobertura": 1,
    "fecha": 1794618371,
-   "ambito": "internacional",
-   "categoria": "Deportes"
-  },
-  {
-   "id": "77123371044b060d",
-   "titulo": "Perú 0-0 Bolivia EN VIVO HOY: minuto a minuto del partido amistoso en Matute por fecha FIFA 2026",
-   "resumen": "La ‘bicolor’ recibe a la selección altiplánica en el estadio Alejandro Villanueva, en el primer partido de Mano Menezes en territorio peruano. Sigue aquí todas las incidencias del encuentro",
-   "imagen": "https://www.infobae.com/resizer/v2/K5NZZC4CFRAXVMC3HUKDER3Z24.jpg?auth=14b9ef49c06649d38eea3519f4cc7fcff32ce7f58059aa2efe7961b0bc87241c&smart=true&width=1920&height=1080",
-   "enlace": "https://www.infobae.com/peru/deportes/2026/11/13/peru-vs-bolivia-en-vivo-hoy-minuto-a-minuto-partido-amistoso-matute-fecha-fifa-2026-goles-resumen-resultado/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794618271,
    "ambito": "internacional",
    "categoria": "Deportes"
   },
@@ -965,19 +1501,6 @@
    "fecha": 1794618258,
    "ambito": "internacional",
    "categoria": "Seguridad"
-  },
-  {
-   "id": "bf1d3b119183f7d4",
-   "titulo": "Nora Colosimo apuntó contra Mauro Icardi y La China Suárez por la situación que atraviesa Wanda Nara: “Son dos siniestros”",
-   "resumen": "La madre de Wanda Nara habló en LAM sobre el episodio que involucra a la hija mayor de la conductora y pidió a la justicia que no pierda de vista a las dos menores",
-   "imagen": "https://www.infobae.com/resizer/v2/3R4QAPN6HZFGXEB3UMMEAKFVH4.png?auth=91c63389c43ce755f465d1b93cceda2ccc44969a9607bfa982880a981629c82a&smart=true&width=1280&height=720",
-   "enlace": "https://www.infobae.com/teleshow/2026/11/14/nora-colosimo-apunto-contra-mauro-icardi-y-la-china-suarez-por-la-situacion-que-atraviesa-wanda-nara-son-dos-siniestros/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794618226,
-   "ambito": "internacional",
-   "categoria": "Mundo"
   },
   {
    "id": "df6abf82a8d2795e",
@@ -1032,6 +1555,19 @@
    "categoria": "Política"
   },
   {
+   "id": "9737ca0031189780",
+   "titulo": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+   "resumen": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) issued a nationwide ground stop for all flights in the…",
+   "imagen": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986",
+   "enlace": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+   "medio": "The Guardian",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618072,
+   "ambito": "internacional",
+   "categoria": "Mundo"
+  },
+  {
    "id": "1c7ef1bde58c37e2",
    "titulo": "El fenómeno El Niño extraordinario se extenderá en Perú hasta julio de 2027, según informe",
    "resumen": "Lima, 13 nov (EFE).- El fenómeno climático de El Niño, que impacta a las costas de Ecuador y del norte de Perú, se mantendría con una magnitud extraordinaria hasta febrero de 2027 y con un debilitamiento progresivo hasta julio del próximo año, según informó este viernes la…",
@@ -1069,6 +1605,19 @@
    "fecha": 1794618040,
    "ambito": "internacional",
    "categoria": "Seguridad"
+  },
+  {
+   "id": "97d6ccad489e4c81",
+   "titulo": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+   "resumen": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email , free app or daily news podcast In a Facebook video from a Sydney anti-immigration rally on Sunday…",
+   "imagen": "https://i.guim.co.uk/img/media/bad470fd72c96843e66c54b24e828b110309e74f/920_806_5642_4517/master/5642.jpg?width=140&quality=85&auto=format&fit=max&s=d26253caa471b9a1073a46e86c2ca7b0",
+   "enlace": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+   "medio": "The Guardian",
+   "otros_medios": [],
+   "cobertura": 1,
+   "fecha": 1794618030,
+   "ambito": "internacional",
+   "categoria": "Tecnología"
   },
   {
    "id": "d0706eb9486dff2a",
@@ -1138,7 +1687,7 @@
   {
    "id": "fa66eb00f7214b61",
    "titulo": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
-   "resumen": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump’s homeland security secretary says ‘no indication as of yet’ of cyberattack FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News…",
+   "resumen": "Democratic lawmakers press Trump officials for more details about communication system failures that sparked nationwide flight fiasco FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related…",
    "imagen": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3",
    "enlace": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
    "medio": "The Guardian",
@@ -1173,19 +1722,6 @@
    "fecha": 1794617836,
    "ambito": "internacional",
    "categoria": "Mundo"
-  },
-  {
-   "id": "05f6925c79ad728a",
-   "titulo": "Colombia vs. Chile - EN VIVO: finalizó el primer tiempo, siga aquí el minuto a minuto del partido",
-   "resumen": "La Amarilla volverá a la acción previo al cierre del 2026 y con Néstor Lorenzo probando variantes tácticas con los nuevos jugadores",
-   "imagen": "https://www.infobae.com/resizer/v2/JVEATPFGC5BDXGVWBI6BTPAKSQ.jpg?auth=d37418ad0a6c5aa78e028139c254c50e6a59446d4749b4a99f96b9b4cfc16e86&smart=true&width=679&height=452",
-   "enlace": "https://www.infobae.com/colombia/deportes/2026/11/13/colombia-vs-chile-en-vivo-siga-aqui-el-minuto-a-minuto-del-partido-en-el-pascual-guerrero/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794617812,
-   "ambito": "internacional",
-   "categoria": "Política"
   },
   {
    "id": "942fec187bfc773a",
@@ -1251,19 +1787,6 @@
    "fecha": 1794617508,
    "ambito": "nacional",
    "categoria": "Deportes"
-  },
-  {
-   "id": "f3993413f66a30cb",
-   "titulo": "EN VIVO | Bloqueos, accidentes y manifestaciones hoy 13 de noviembre: repartidores de aplicaciones arriban a oficinas de la SEMOVI en CDMX",
-   "resumen": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
-   "imagen": "https://www.infobae.com/resizer/v2/FKT5PMTL4JH2ZMS6RUR2V7XQEI.jpg?auth=e561bcdb7a03595187606b02a175d6946c13314cbdea0091983eb5556b3e3df7&smart=true&width=3840&height=2160",
-   "enlace": "https://www.infobae.com/mexico/2026/11/13/en-vivo-bloqueos-accidentes-y-manifestaciones-hoy-13-de-noviembre/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794617478,
-   "ambito": "internacional",
-   "categoria": "Mundo"
   },
   {
    "id": "9e9e3db009aaa08d",
@@ -1511,19 +2034,6 @@
    "fecha": 1794616760,
    "ambito": "internacional",
    "categoria": "Política"
-  },
-  {
-   "id": "9a963d0ed0d23563",
-   "titulo": "Caos en los aeropuertos de EE UU por la suspensión de vuelos: “Nadie va a ir a ninguna parte”",
-   "resumen": "Miles de personas en aeropuertos en todo el país están a la expectativa de que las aerolíneas les informen qué pasará con sus vuelos",
-   "imagen": "https://imagenes.elpais.com/resizer/v2/VDD7EZS4ABIWTLJZX7OCYEXKNI.jpg?auth=8cc9b409afd09cf92060ce1352b6f6a42be6cfd6374e457fe8ef6f76ec978b66",
-   "enlace": "https://elpais.com/us/2026-11-14/caos-en-los-aeropuertos-de-ee-uu-por-la-suspension-de-vuelos-nadie-va-a-ir-a-ninguna-parte.html",
-   "medio": "El País América",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794616757,
-   "ambito": "internacional",
-   "categoria": "Sociedad"
   },
   {
    "id": "3dd3c2f15c08182d",
@@ -1888,19 +2398,6 @@
    "fecha": 1794616084,
    "ambito": "internacional",
    "categoria": "Mundo"
-  },
-  {
-   "id": "ec374e837a43e0c1",
-   "titulo": "Caos aéreo en EE. UU.: más de 1.700 vuelos cancelados y 10.000 retrasados este viernes",
-   "resumen": "Aunque aún no hay cifras oficiales, se cree que está suspensión de despegues puede afectar a cientos de miles de pasajeros en todo Estados Unidos.",
-   "imagen": "https://eluniverso.com/resizer/uoXhZS3wB4Uuko4fgmTPpOa5PgA=/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/XZQO7W37EJHDFAODKDKYGILS4A.jpg",
-   "enlace": "https://eluniverso.com/internacional/estados-unidos/caos-aereo-en-ee-uu-mas-de-1700-vuelos-cancelados-y-10000-retrasados-este-viernes-nota/",
-   "medio": "El Universo",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794616071,
-   "ambito": "nacional",
-   "categoria": "General"
   },
   {
    "id": "38eabca3e86c7755",
@@ -2371,19 +2868,6 @@
    "categoria": "General"
   },
   {
-   "id": "9737ca0031189780",
-   "titulo": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-   "resumen": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights…",
-   "imagen": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986",
-   "enlace": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-   "medio": "The Guardian",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794614946,
-   "ambito": "internacional",
-   "categoria": "Mundo"
-  },
-  {
    "id": "810fdb1665c6b178",
    "titulo": "Consejo de Estado negó tutela contra De la Espriella por presuntamente vulnerar la libertad de cultos, y mencionó la frase “viva Cristo Rey”: esto concluyó",
    "resumen": "El accionante, identificado como Román Camilo Díaz Fernández, afirmó que hubo un trato preferente hacia la religión católica y la fe judía en eventos, pronunciamientos, publicaciones en redes y financiamientos",
@@ -2460,19 +2944,6 @@
    "fecha": 1794614726,
    "ambito": "internacional",
    "categoria": "Política"
-  },
-  {
-   "id": "8b045b02bb0a45be",
-   "titulo": "Demoras y desvío: qué pasa con los vuelos programados para hoy desde Argentina a Estados Unidos",
-   "resumen": "Cuáles son los despegues programados para las próximas horas y los primeros que aparecen como “demorados”. Qué dicen, por el momento, las líneas aéreas que operan en el país",
-   "imagen": "https://www.infobae.com/resizer/v2/XPHQXXPVJVH4HFJINKHPYRRRR4.jpeg?auth=e0f35045a0e764cf3f0b7d6104bf19a6e877e71bba34085291a7a95244135765&smart=true&width=1600&height=1065",
-   "enlace": "https://www.infobae.com/economia/2026/11/13/que-pasara-con-los-vuelos-programados-para-hoy-desde-argentina-a-estados-unidos/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794614709,
-   "ambito": "internacional",
-   "categoria": "Mundo"
   },
   {
    "id": "930748574b440b73",
@@ -2696,19 +3167,6 @@
    "categoria": "Mundo"
   },
   {
-   "id": "b15bbd7e5a638a24",
-   "titulo": "Desde daños en propiedad ajena a enfrentamientos con montachoques y en teatro: el historial de acusaciones de Ari Telch por el que ya fue denunciado",
-   "resumen": "Las nuevas polémicas se suman a un historial de conflictos matrimoniales y por su hija Sofía narrados por su exesposa Ninel Conde",
-   "imagen": "https://www.infobae.com/resizer/v2/F3VRHYU2INFMVIY7LYONPHAURI.png?auth=fb1ab93e4e61b63fb98ff4502b5db79b881b968a39502eb9301c08294c1387dc&smart=true&width=1920&height=1080",
-   "enlace": "https://www.infobae.com/mexico/2026/11/13/desde-danos-a-propiedad-privada-a-enfrentamientos-con-montachoques-y-en-teatro-el-historial-de-acusaciones-de-ari-telch-por-el-que-ya-fue-denunciado/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613685,
-   "ambito": "internacional",
-   "categoria": "Cultura"
-  },
-  {
    "id": "876a3c6c5cdd10e4",
    "titulo": "¿Qué está pasando con los vuelos domésticos en los Estados Unidos? 10 preguntas y respuestas para entender la suspensión aérea en ese país",
    "resumen": "La FAA ordenó la suspensión nacional de todos los despegues tras una falla masiva de comunicaciones en los centros de control.",
@@ -2718,84 +3176,6 @@
    "otros_medios": [],
    "cobertura": 1,
    "fecha": 1794613667,
-   "ambito": "internacional",
-   "categoria": "Mundo"
-  },
-  {
-   "id": "dbd1e6bd0cf66343",
-   "titulo": "Vuelos suspendidos en Estados Unidos encienden las alarmas en Perú: ¿Qué pasará con los viajes desde y hacia el país norteamericano? LAP responde",
-   "resumen": "La Administración Federal de Aviación ordenó frenar los despegues por una falla de comunicaciones. Lima Airport Partners advirtió que los itinerarios de los pasajeros podrían cambiar",
-   "imagen": "https://www.infobae.com/resizer/v2/44523ZESGFDHDPHGEKE4F3ZZIA.png?auth=b3a640429139d4d51c79c975a277bcc867041eddce3955049aa85585b0840a81&smart=true&width=1198&height=727",
-   "enlace": "https://www.infobae.com/peru/2026/11/13/vuelos-suspendidos-en-estados-unidos-encienden-las-alarmas-en-peru-que-pasara-con-los-viajes-desde-y-hacia-el-pais-norteamericano-lap-responde/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613634,
-   "ambito": "internacional",
-   "categoria": "Mundo"
-  },
-  {
-   "id": "9f65713a42bf4512",
-   "titulo": "Estos serán los rivales de la selección Colombia en el Sudamericano Sub-20 de 2027 que se disputará en nuestro país",
-   "resumen": "La Confederación Sudamericana de Fútbol sorteó los grupos del torneo clasificatorio que se jugará en Azerbaiyán-Uzbekistán entre septiembre y octubre del próximo año",
-   "imagen": "https://www.infobae.com/resizer/v2/ESILGTIX2JBN5PJ64WZSRAUYCU.jpeg?auth=be67dd6a3046a7811b889ece1cc827464bd57521004c88fc2603c0ee3cfc7c93&smart=true&width=1536&height=1024",
-   "enlace": "https://www.infobae.com/colombia/deportes/2026/11/13/estos-seran-los-rivales-de-la-seleccion-colombia-en-el-sudamericano-sub-20-de-2027-que-se-disputara-en-nuestro-pais/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613633,
-   "ambito": "internacional",
-   "categoria": "Deportes"
-  },
-  {
-   "id": "490901a6e2588926",
-   "titulo": "Vuelo cancelado en Estados Unidos: qué debe pagar la aerolínea",
-   "resumen": "Devolución en dinero, aunque la culpa no sea de la aerolínea. Hotel y comida, no. Y un límite de horas dentro del avión",
-   "imagen": "https://www.infobae.com/resizer/v2/GUOEYDE5JVHMJJM45AOLRGTAUM.JPG?auth=3439b4b285708c003705bfef00c6f76557628f57bb9170a19d9594465b4c1226&smart=true&width=6500&height=4333",
-   "enlace": "https://www.infobae.com/estados-unidos/2026/11/13/vuelo-cancelado-en-estados-unidos-que-debe-pagar-la-aerolinea/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613603,
-   "ambito": "internacional",
-   "categoria": "Mundo"
-  },
-  {
-   "id": "a86819bd72a50c91",
-   "titulo": "El papa alerta en Perú del riesgo de que la tecnología sea un privilegio para millonarios",
-   "resumen": "Chiclayo (Perú), 13 nov (EFE).- El papa León XIV alertó de que los avances científicos se pueden convertir sólo en un privilegio de los millonarios \"mientras pueblos enteros continúan sufriendo la miseria y la opresión\", en su visita a la Universidad Católica Santo Toribio de…",
-   "imagen": null,
-   "enlace": "https://www.infobae.com/america/agencias/2026/11/13/el-papa-alerta-en-peru-del-riesgo-de-que-la-tecnologia-sea-un-privilegio-para-millonarios/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613562,
-   "ambito": "internacional",
-   "categoria": "Tecnología"
-  },
-  {
-   "id": "afad8f190b9356e6",
-   "titulo": "Estudiantes rinden homenaje a Miguel Ángel Asturias tras su retorno a Guatemala",
-   "resumen": "Ciudad de Guatemala, 13 nov (EFE).- La comunidad estudiantil de Guatemala rindió un emotivo homenaje este viernes al Premio Nobel de Literatura de 1967, Miguel Ángel Asturias, en las inmediaciones del Museo de la Universidad de San Carlos (MUSAC), en el centro capitalino, dentro…",
-   "imagen": null,
-   "enlace": "https://www.infobae.com/america/agencias/2026/11/13/estudiantes-rinden-homenaje-a-miguel-angel-asturias-tras-su-retorno-a-guatemala/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613545,
-   "ambito": "internacional",
-   "categoria": "Sociedad"
-  },
-  {
-   "id": "1715b1a3c8dbbb80",
-   "titulo": "La suspensión de vuelos en EE.UU. provoca decenas de cancelaciones en Canadá",
-   "resumen": "Toronto (Canadá), 13 nov (EFE).- La suspensión de las operaciones aéreas en Estados Unidos por un fallo en las comunicaciones del control del tráfico aéreo provocó este viernes importantes alteraciones en los aeropuertos canadienses, con al menos 89 vuelos cancelados y otros 170…",
-   "imagen": null,
-   "enlace": "https://www.infobae.com/america/agencias/2026/11/13/la-suspension-de-vuelos-en-eeuu-provoca-decenas-de-cancelaciones-en-canada/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613523,
    "ambito": "internacional",
    "categoria": "Mundo"
   },
@@ -2813,32 +3193,6 @@
    "categoria": "Mundo"
   },
   {
-   "id": "d4a98e0ebbde0ad0",
-   "titulo": "Ratones anidando en motores de autos: por qué mastican cables y cómo prevenirlo",
-   "resumen": "Un hueco del tamaño de un lápiz basta para que un ratón se instale en el motor y dañe el cableado del auto",
-   "imagen": "https://www.infobae.com/resizer/v2/UFO4MVHBKZEUDPOSXWABVETWUU.png?auth=91283c2b6ed5585d100f86f44173ce4f826531cffe63748c701638ad782951ff&smart=true&width=2752&height=1536",
-   "enlace": "https://www.infobae.com/mexico/2026/11/13/ratones-anidando-en-motores-de-autos-por-que-mastican-cables-y-como-prevenirlo/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613500,
-   "ambito": "internacional",
-   "categoria": "Mundo"
-  },
-  {
-   "id": "f21ae40a25980449",
-   "titulo": "Los Auténticos Caligaris mezclan 30 músicos y cancioneros en una misma fiesta sobre el escenario: \"Hace mucho tiempo teníamos ganas de hacer algo\"",
-   "resumen": "El guitarrista Juan Carlos Taleb habló en exclusiva con Infobae Colombia sobre el proyecto que une a las dos agrupaciones argentinas en El Corazón de Bogotá Arena los días 14 y 15 de noviembre",
-   "imagen": "https://www.infobae.com/resizer/v2/MXRIZID7QNEHFCKVGV3C3IRILA.jpg?auth=885bab1cfdc20a0fef7b1d46035ff8ae77cc039284773207797be41c521c6e8c&smart=true&width=4095&height=2470",
-   "enlace": "https://www.infobae.com/colombia/2026/11/13/los-autenticos-caligaris-mezclan-30-musicos-y-cancioneros-en-una-misma-fiesta-sobre-el-escenario-hace-mucho-tiempo-teniamos-ganas-de-hacer-algo/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613495,
-   "ambito": "internacional",
-   "categoria": "Mundo"
-  },
-  {
    "id": "8da2d003eb1a214a",
    "titulo": "Emergencia en EE. UU. tras choque de buque contra crucero con 129 personas a bordo: videos muestran a pasajeros aferrados a la embarcación inclinada",
    "resumen": "Varios pasajeros del crucero fluvial, identificado como el American Heritage, ya han sido rescatados. Esto se sabe.",
@@ -2850,32 +3204,6 @@
    "fecha": 1794613422,
    "ambito": "internacional",
    "categoria": "Mundo"
-  },
-  {
-   "id": "398418d84cbe5da6",
-   "titulo": "Claves del cierre del espacio aéreo en Estados Unidos: qué se sabe del fallo que ha dejado en tierra todos los vuelos",
-   "resumen": "El Gobierno de Trump atribuye el cierre a un fallo de telecomunicaciones en los centros de control aéreo. No conoce la causa ni da un plazo para recuperar la normalidad",
-   "imagen": "https://imagenes.elpais.com/resizer/v2/RU4HZEQCMZIAVNEA72ITHIL44E.jpg?auth=80173d4a26ac5b49c42d9255aa7b177d04043dbf914c643e599cfcf56d8e4d1f",
-   "enlace": "https://elpais.com/us/2026-11-13/claves-del-cierre-del-espacio-aereo-en-estados-unidos-que-se-sabe-del-fallo-que-ha-dejado-en-tierra-todos-los-vuelos.html",
-   "medio": "El País América",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613178,
-   "ambito": "internacional",
-   "categoria": "Política"
-  },
-  {
-   "id": "76b3313753604cd8",
-   "titulo": "La Selección Argentina Femenina de Tenis completó su última práctica antes de viajar a Japón",
-   "resumen": "González Daniele, Urrutia y Moyano compartieron sus sensaciones en la previa de su primera convocatoria a la Billie Jean King Cup, donde el equipo nacional enfrentará al conjunto local por los Play-offs",
-   "imagen": "https://www.infobae.com/resizer/v2/ZVEOY4KD75CITCBKMQR5Q2UDOM.jpg?auth=f8fcee0b395e831bc2211741d5bbd2462ccce577a10900860e0307136b46830a&smart=true&width=1920&height=1280",
-   "enlace": "https://www.infobae.com/deportes/tenis/2026/11/13/la-seleccion-argentina-femenina-de-tenis-completo-su-ultima-practica-antes-de-viajar-a-japon/",
-   "medio": "Infobae",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794613119,
-   "ambito": "internacional",
-   "categoria": "Deportes"
   },
   {
    "id": "d8846980f793266a",
@@ -3526,19 +3854,6 @@
    "fecha": 1794608815,
    "ambito": "nacional",
    "categoria": "General"
-  },
-  {
-   "id": "2185eedcec7d5b08",
-   "titulo": "🔴En vivo: termina el primer tiempo, y Ecuador gana a Costa Rica",
-   "resumen": "Siga aquí el minuto a minuto del partido entre Ecuador y Costa Rica A las 19:00 jugará Ecuador frente a Costa Rica en el Estadio Olímpico Atahualpa, en Quito. Será la primera vez, en nueve años, que la selección ecuatoriana vuelve a disputar un encuentro en ese espacio que fue…",
-   "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4cb.png",
-   "enlace": "https://elmercurio.com.ec/deportes/2026/11/13/ecuador-costa-rica-en-vivo-amistoso/",
-   "medio": "El Mercurio",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794608767,
-   "ambito": "nacional",
-   "categoria": "Deportes"
   },
   {
    "id": "5ccf40c1b05c93a8",
@@ -5554,32 +5869,6 @@
    "fecha": 1794596108,
    "ambito": "internacional",
    "categoria": "Mundo"
-  },
-  {
-   "id": "97f7f43b2e6e4da0",
-   "titulo": "Jensen Huang: presunto espionaje de una de sus amantes y otras relaciones que dejan a Nvidia sin su CEO estrella",
-   "resumen": "El hombre que convirtió a la empresa en el principal fabricante mundial de chips de IA, dimite por sus relaciones extramatrimoniales. ¿Cómo afectará su marcha a la empresa y a la carrera entre EE. UU. y China?",
-   "imagen": null,
-   "enlace": "https://www.dw.com/es/jensen-huang-presunto-espionaje-de-una-de-sus-amantes-y-otras-relaciones-que-dejan-a-nvidia-sin-su-ceo-estrella/a-79943979?maca=spa-rss-sp-all-1122-rdf",
-   "medio": "DW Español",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794596040,
-   "ambito": "internacional",
-   "categoria": "Deportes"
-  },
-  {
-   "id": "6b1951ff854a19ff",
-   "titulo": "Reconocimientos a su labor educativa destacaron en la sesión solemne por el vigésimo aniversario de la Universidad Ecotec",
-   "resumen": "“Cumplir 20 años es una oportunidad también de hacerse preguntas de fondo, que pueden incluso resultar incómodas”, dijo el rector Joaquín Hernández.",
-   "imagen": "https://eluniverso.com/resizer/VGR6QV1NAyQI_fRiUvJsntb5NoM=/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/HT2VEUA7NFFXZBFYH25R4DS3ZQ.jpg",
-   "enlace": "https://eluniverso.com/guayaquil/samborondon/reconocimientos-a-su-labor-educativa-destacaron-en-la-sesion-solemne-por-el-vigesimo-aniversario-de-la-universidad-ecotec-nota/",
-   "medio": "El Universo",
-   "otros_medios": [],
-   "cobertura": 1,
-   "fecha": 1794595939,
-   "ambito": "nacional",
-   "categoria": "Sociedad"
   }
  ]
 }

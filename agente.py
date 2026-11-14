@@ -125,12 +125,23 @@ def imagen_de(entrada) -> str | None:
 
 def leer_fuente(fuente: dict, ahora: float, ajustes: dict) -> tuple[list[dict], str | None]:
     """Devuelve (noticias, error). Nunca lanza: una fuente caída no frena al resto."""
-    try:
-        feed = feedparser.parse(descargar(fuente["url"]))
-    except Exception as e:  # red, DNS, HTTP 4xx/5xx, tiempo de espera
-        return [], f"{type(e).__name__}: {e}"
-    if not feed.entries:
-        return [], "el feed no trae noticias (¿URL cambiada?)"
+    # "url" puede ser una dirección o una lista de alternativas: gana la primera que sirva.
+    urls = fuente["url"] if isinstance(fuente["url"], list) else [fuente["url"]]
+    feed, errores = None, []
+    for url in urls:
+        try:
+            cuerpo = descargar(url)
+        except Exception as e:  # red, DNS, HTTP 4xx/5xx, tiempo de espera
+            errores.append(f"{type(e).__name__}: {e}")
+            continue
+        candidato = feedparser.parse(cuerpo)
+        if candidato.entries:
+            feed = candidato
+            break
+        inicio = " ".join(cuerpo[:80].decode("utf-8", "replace").split())
+        errores.append(f"no es un feed con noticias (empieza con: {inicio!r})")
+    if feed is None:
+        return [], " | ".join(errores)
 
     limite = ahora - ajustes["horas_ventana"] * 3600
     noticias = []

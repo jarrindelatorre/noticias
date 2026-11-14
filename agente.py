@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import calendar
+import email.utils
 import hashlib
 import html
 import json
@@ -27,6 +28,7 @@ import time
 import unicodedata
 import urllib.error
 import urllib.request
+import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -47,6 +49,8 @@ AJUSTES_BASE = {
     "similitud_mismo_medio": 0.6,  # 0-1: desde aquí es la misma nota republicada
     "similitud_entre_medios": 0.5, # 0-1: desde aquí dos medios hablan del mismo hecho
     "dias_memoria": 7,             # cuánto recordar lo ya enviado
+    "tendencias_geo": "EC",        # país de Google Trends; "" para desactivar
+    "tendencias_max": 15,
 }
 
 PALABRAS_VACIAS = set(
@@ -259,6 +263,90 @@ def medir_cobertura(noticias: list[dict], umbral: float) -> list[dict]:
     return historias
 
 
+# ----------------------------------------------------------- tendencias ----
+
+def leer_tendencias(geo: str, maximo: int) -> tuple[list[dict], str | None]:
+    """Búsquedas en tendencia de Google Trends para un país, con sus notas."""
+    try:
+        raiz = ET.fromstring(descargar(f"https://trends.google.com/trending/rss?geo={geo}"))
+    except Exception as e:
+        return [], f"{type(e).__name__}: {e}"
+
+    def local(nodo) -> str:  # nombre de la etiqueta sin el espacio de nombres
+        return nodo.tag.rsplit("}", 1)[-1]
+
+    def campos(nodo) -> dict:
+        return {local(h): (h.text or "").strip() for h in nodo if len(h) == 0}
+
+    tendencias = []
+    for item in raiz.iter("item"):
+        datos = campos(item)
+        termino = datos.get("title", "")
+        if not termino:
+            continue
+        notas = []
+        for hijo in item:
+            if local(hijo) != "news_item":
+                continue
+            n = campos(hijo)
+            if n.get("news_item_url", "").startswith("http"):
+                notas.append({
+                    "titulo": html.unescape(n.get("news_item_title", "")),
+                    "enlace": n["news_item_url"],
+                    "medio": n.get("news_item_source", ""),
+                    "imagen": n.get("news_item_picture") or None,
+                })
+        try:
+            fecha = int(email.utils.parsedate_to_datetime(datos["pubDate"]).timestamp())
+        except (KeyError, ValueError, TypeError):
+            fecha = None
+        tendencias.append({
+            "termino": termino,
+            "busquedas": datos.get("approx_traffic", ""),
+            "imagen": datos.get("picture") or (notas[0]["imagen"] if notas else None),
+            "fecha": fecha,
+            "notas": notas[:3],
+        })
+    if not tendencias:
+        return [], "Google Trends no devolvió tendencias"
+    return tendencias[:maximo], None
+
+
+def texto_tendencias(nuevas: list[dict], geo: str) -> str:
+    esc = html.escape
+    lineas = [f"🔥 <b>Tendencias de búsqueda · {esc(geo)}</b>"]
+    for t in nuevas:
+        linea = f"• <b>{esc(t['termino'])}</b>"
+        if t["busquedas"]:
+            linea += f" ({esc(t['busquedas'])} búsquedas)"
+        if t["notas"]:
+            n = t["notas"][0]
+            linea += f"\n  <a href=\"{esc(n['enlace'], quote=True)}\">{esc(recortar(n['titulo'], 90))}</a>"
+            if n["medio"]:
+                linea += f" — {esc(n['medio'])}"
+        lineas.append(linea)
+    return "\n\n".join(lineas)
+
+
+def enviar_tendencias(tendencias: list[dict], enviadas: dict, geo: str,
+                      token: str, chat: str, ahora: float) -> int:
+    """Un solo mensaje con las tendencias que aún no se habían avisado."""
+    clave = lambda t: "tendencia:" + normalizar(t["termino"])
+    nuevas = [t for t in tendencias if clave(t) not in enviadas]
+    if not nuevas:
+        return 0
+    ok, error = llamar_telegram(token, "sendMessage", {
+        "chat_id": chat, "parse_mode": "HTML", "disable_web_page_preview": True,
+        "text": texto_tendencias(nuevas, geo)[:4000],
+    })
+    if not ok:
+        print(f"  ! Telegram rechazó las tendencias: {error}", file=sys.stderr)
+        return 0
+    for t in nuevas:
+        enviadas[clave(t)] = {"t": int(ahora), "medio": "Google Trends", "titulo": t["termino"]}
+    return len(nuevas)
+
+
 # ------------------------------------------------------------- telegram ----
 
 def llamar_telegram(token: str, metodo: str, datos: dict) -> tuple[bool, str]:
@@ -375,6 +463,12 @@ def main() -> int:
     sin_repetir = quitar_repetidas_del_medio(unicas, ajustes["similitud_mismo_medio"])
     historias = medir_cobertura(sin_repetir, ajustes["similitud_entre_medios"])
 
+    tendencias, geo = [], ajustes["tendencias_geo"]
+    if geo:
+        tendencias, error = leer_tendencias(geo, ajustes["tendencias_max"])
+        print(f"  {'Google Trends ' + geo:<28} "
+              + (f"ERROR {error}" if error else f"{len(tendencias)} tendencias"))
+
     caidas = [e for e in estado_fuentes if e["error"]]
     print(f"\n{len(fuentes) - len(caidas)}/{len(fuentes)} fuentes respondieron · "
           f"{len(unicas)} noticias · {len(unicas) - len(historias)} repetidas del mismo medio descartadas")
@@ -388,6 +482,7 @@ def main() -> int:
         "generado": int(ahora),
         "categorias": list(config["categorias"]) + ["Mundo", "General"],
         "fuentes": estado_fuentes,
+        "tendencias": tendencias,
         "historias": historias[: ajustes["max_tablero"]],
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Tablero actualizado: {SALIDA_JSON.relative_to(RAIZ)}")
@@ -399,12 +494,13 @@ def main() -> int:
         print("Telegram omitido: faltan TELEGRAM_BOT_TOKEN y TELEGRAM_CHAT_ID.")
     else:
         enviadas = json.loads(ESTADO.read_text()) if ESTADO.exists() else {}
+        avisadas = enviar_tendencias(tendencias, enviadas, geo, token, chat, ahora)
         cantidad = enviar_telegram(historias, enviadas, ajustes, token, chat, ahora)
         vence = ahora - ajustes["dias_memoria"] * 86400
         enviadas = {i: r for i, r in enviadas.items() if r["t"] >= vence}
         ESTADO.parent.mkdir(parents=True, exist_ok=True)
         ESTADO.write_text(json.dumps(enviadas, indent=0), encoding="utf-8")
-        print(f"Telegram: {cantidad} noticias enviadas.")
+        print(f"Telegram: {cantidad} noticias y {avisadas} tendencias nuevas enviadas.")
     return 0
 
 

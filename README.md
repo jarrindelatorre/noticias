@@ -11,6 +11,13 @@ Todo es gratuito: corre en GitHub Actions, el tablero se publica con GitHub
 Pages y Telegram no cobra por los bots. No usa ninguna API de pago; el resumen
 es el que publica cada medio en su feed.
 
+## Tendencias
+
+Además de los medios, lee las búsquedas en tendencia de Google Trends para
+Ecuador. Aparecen como una franja arriba del tablero (al tocar una se buscan
+las noticias de ese tema) y, cuando surge una nueva, se avisa en Telegram.
+El país se cambia con `tendencias_geo` en `fuentes.json` (`""` lo desactiva).
+
 ## Reglas de repetidas
 
 - Entre medios distintos **no se descarta nada**: cada medio conserva su

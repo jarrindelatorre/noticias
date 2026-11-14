@@ -66,6 +66,21 @@
   }
   .acciones button:hover, .acciones a:hover { border-color: var(--acento); color: var(--acento); }
   .vacio { color: var(--suave); text-align: center; padding: 48px 16px; }
+  #tendencias { margin-bottom: 20px; }
+  #tendencias h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--suave); margin: 0 0 8px; }
+  .tira { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 6px; }
+  .tend {
+    flex: 0 0 230px; background: var(--panel); border: 1px solid var(--linea); border-radius: 12px;
+    padding: 10px 12px; display: flex; flex-direction: column; gap: 4px;
+  }
+  .tend button {
+    font: inherit; font-weight: 700; text-align: left; cursor: pointer; padding: 0;
+    color: var(--texto); background: none; border: 0;
+  }
+  .tend button:hover { color: var(--acento); text-decoration: underline; }
+  .tend small { color: var(--acento); font-weight: 600; }
+  .tend a { font-size: 0.82rem; color: var(--suave); text-decoration: none; }
+  .tend a:hover { text-decoration: underline; }
   details { margin-top: 28px; color: var(--suave); font-size: 0.85rem; }
   details ul { columns: 220px; padding-left: 18px; }
   .caida { color: var(--acento); }
@@ -94,6 +109,10 @@
   </div>
 </header>
 <main class="ancho">
+  <section id="tendencias" hidden>
+    <h2>Tendencias de búsqueda en Google</h2>
+    <div class="tira" id="tira"></div>
+  </section>
   <div class="rejilla" id="rejilla"></div>
   <div class="vacio" id="vacio" hidden>No hay noticias con esos filtros.</div>
   <details>
@@ -160,6 +179,23 @@ function tarjeta(h) {
   ])]);
 }
 
+function pintarTendencias() {
+  const lista = datos.tendencias || [];
+  $("tendencias").hidden = lista.length === 0;
+  $("tira").replaceChildren(...lista.map((t, i) => {
+    const termino = nodo("button", { type: "button", textContent: `${i + 1}. ${t.termino}`,
+      title: "Buscar este tema en las noticias del tablero" });
+    termino.onclick = () => { $("buscar").value = t.termino; categoria = ""; pintar(); scrollTo({ top: 0 }); };
+    const nota = t.notas[0];
+    return nodo("div", { className: "tend" }, [
+      termino,
+      t.busquedas && nodo("small", { textContent: `${t.busquedas} búsquedas` }),
+      nota && nodo("a", { href: nota.enlace, target: "_blank", rel: "noopener noreferrer",
+        textContent: nota.medio ? `${nota.titulo} — ${nota.medio}` : nota.titulo }),
+    ]);
+  }));
+}
+
 function pintar() {
   const texto = $("buscar").value.trim().toLowerCase();
   const ambito = $("ambito").value;
@@ -207,6 +243,7 @@ async function cargar() {
     textContent: f.error ? `${f.medio}: sin respuesta` : `${f.medio}: ${f.noticias}`,
     title: f.error || "",
   })));
+  pintarTendencias();
   pintar();
 }
 
